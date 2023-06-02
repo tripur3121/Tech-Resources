@@ -20,3 +20,7 @@ BlockGeeks offers a range of online courses and tutorials on blockchain technolo
 ## Interview Practice Tools 
 1) [LiveChat](https://www.livechat.com/typing-speed-test/#/) <br>
 LiveChat's typing speed test is a tool designed to measure how fast and accurately a user can type in a given amount of time.
+
+## Technical Writing Courses 
+1) [Technical Writing Courses by Google](https://developers.google.com/tech-writing) <br>
+It offers many courses for various levels of technical writers.

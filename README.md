@@ -16,6 +16,8 @@ Land 5x more interviews, opportunities and job offers.
 ## Blockchain
 1) [BlockGeeks](https://blockgeeks.com/) <br>
 BlockGeeks offers a range of online courses and tutorials on blockchain technology. It's a great resource for anyone looking to deepen their understanding of how blockchain works.(some free courses are also available)
+2) [CryptoZombies](https://cryptozombies.io/) <br>
+CryptoZombies is an interactive school that teaches you all you need to know about blockchain technology. Make your own crypto-collectibles game to learn how to construct smart contracts.
 
 ## Interview Practice Tools 
 1) [LiveChat](https://www.livechat.com/typing-speed-test/#/) <br>

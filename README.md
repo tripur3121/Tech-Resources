@@ -7,6 +7,9 @@ Create an amazing GitHub profile in minutes. Show off your skills, experience an
 ## Web development Tools
 1) [Mozilla Developer Network](https://developer.mozilla.org/en-US/) <br>
 A comprehensive resource for web developers, with documentation and tutorials on web technologies.
+2) [TechRadar](https://www.techradar.com/news/best-web-development-tool) <br>
+A list of the best web development tools of 2023, including both free and paid options.
+
 
 ## Resume Enhancement Tools
 1) [Resume Worded](https://resumeworded.com/index.php) <br>

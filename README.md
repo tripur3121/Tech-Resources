@@ -25,6 +25,8 @@ CryptoZombies is an interactive school that teaches you all you need to know abo
 ## Interview Practice Tools 
 1) [LiveChat](https://www.livechat.com/typing-speed-test/#/) <br>
 LiveChat's typing speed test is a tool designed to measure how fast and accurately a user can type in a given amount of time.
+2) [My Interview Practice](https://myinterviewpractice.com/) <br>
+This website offers a complete online video course, guides, and worksheets to help you prepare for the interview. They also have interactive tools to help you practice and improve your interviewing skills.
 
 ## Technical Writing Courses 
 1) [Technical Writing Courses by Google](https://developers.google.com/tech-writing) <br>

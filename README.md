@@ -9,7 +9,8 @@ Create an amazing GitHub profile in minutes. Show off your skills, experience an
 A comprehensive resource for web developers, with documentation and tutorials on web technologies.
 2) [TechRadar](https://www.techradar.com/news/best-web-development-tool) <br>
 A list of the best web development tools of 2023, including both free and paid options.
-
+3) [Coursera](https://www.coursera.org/articles/web-developer) <br> 
+It offers online courses on web development, including Web Design for Everybody: Basics of Web Development & Coding from the University of Michigan. Completing an online course can help you build skills while completing development projects for your portfolio.
 
 ## Resume Enhancement Tools
 1) [Resume Worded](https://resumeworded.com/index.php) <br>

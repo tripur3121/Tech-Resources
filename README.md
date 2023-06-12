@@ -32,3 +32,5 @@ This website offers a complete online video course, guides, and worksheets to he
 ## Technical Writing Courses 
 1) [Technical Writing Courses by Google](https://developers.google.com/tech-writing) <br>
 It offers many courses for various levels of technical writers.
+2) [Community Writer Program GitHub List](https://github.com/malgamves/CommunityWriterPrograms)
+This GitHub repository contents paid technical writing programs.

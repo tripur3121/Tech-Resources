@@ -34,5 +34,5 @@ This website offers a complete online video course, guides, and worksheets to he
 It offers many courses for various levels of technical writers.
 2) [Community Writer Program List](https://github.com/malgamves/CommunityWriterPrograms) <br>
 This GitHub repository contains paid technical writing programs.
-3) [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
+3) [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) <be>
 A curated list of awesome resources: articles, books, videos, tools, and podcasts about technical writing.

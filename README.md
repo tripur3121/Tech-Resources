@@ -36,3 +36,7 @@ It offers many courses for various levels of technical writers.
 This GitHub repository contains paid technical writing programs.
 3) [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) <be>
 A curated list of awesome resources: articles, books, videos, tools, and podcasts about technical writing.
+
+## Job Finding Tools
+1) [Careerflow.ai](https://www.careerflow.ai/) <br>
+CareerFlow.ai: Your career companion. Personalized guidance, skill assessments, and job matching. Empowering you with tools and insights to navigate your professional journey successfully.

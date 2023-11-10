@@ -22,7 +22,7 @@ Land 5x more interviews, opportunities, and job offers.
 BlockGeeks offers a range of online courses and tutorials on blockchain technology. It's a great resource for anyone looking to deepen their understanding of blockchain. (some free courses are also available)
 2) [CryptoZombies](https://cryptozombies.io/) <br>
 CryptoZombies is an interactive school that teaches you all you need to know about blockchain technology. Make your own crypto-collectibles game to learn how to construct smart contracts.
-3) [](https://whiteboardcrypto.com/) <br>
+3) [Whiteboardcrypto](https://whiteboardcrypto.com/) <br>
 Cryptocurrency explained by whiteboardcrypto, could be a valuable resource for learning about crypto concepts. It simplifies complex topics and makes them more accessible to a broader audience.
 
 ## Interview Practice Tools 

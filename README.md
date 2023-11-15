@@ -42,3 +42,7 @@ A curated list of awesome resources: articles, books, videos, tools, and podcast
 ## Job Finding Tools
 1) [Careerflow.ai](https://www.careerflow.ai/) <br>
 CareerFlow.ai: Your career companion. Personalized guidance, skill assessments, and job matching. Empowering you with tools and insights to navigate your professional journey successfully.
+
+## Communities
+1) [DEV Community](https://dev.to/) <br>
+DEV Community is a social platform for programmers. It's a place to connect with other developers, share insights, and learn from the experiences of others.

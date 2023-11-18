@@ -46,3 +46,5 @@ CareerFlow.ai: Your career companion. Personalized guidance, skill assessments, 
 ## Communities
 1) [DEV Community](https://dev.to/) <br>
 DEV Community is a social platform for programmers. It's a place to connect with other developers, share insights, and learn from the experiences of others.
+2) [Meetup](https://www.meetup.com/) <br>
+Discover and connect with like-minded individuals through engaging events and activities in your community on Meetup, where shared interests become lasting connections.
